@@ -17,3 +17,12 @@ body{
     font-weight: 700 ;
     line-height: 78px ;
 }
+
+.imgas{
+position: relative ;  
+}
+.navbar-brand{
+    position:absolute;
+
+    color: #d31a1a;
+}
