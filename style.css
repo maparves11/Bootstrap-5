@@ -18,11 +18,3 @@ body{
     line-height: 78px ;
 }
 
-.imgas{
-position: relative ;  
-}
-.navbar-brand{
-    position:absolute;
-
-    color: #d31a1a;
-}
